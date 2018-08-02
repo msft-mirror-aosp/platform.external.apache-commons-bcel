@@ -1,6 +1,6 @@
 name: "apache-commons-bcel"
 description:
-    "The Byte Code Engineering Library (Apache Commons BCEL™) is intended to "
+    "The Byte Code Engineering Library (Apache Commons BCEL) is intended to "
     "give users a convenient way to analyze, create, and manipulate (binary) "
     "Java class files (those ending with .class). Classes are represented by "
     "objects which contain all the symbolic information of the given class: "
